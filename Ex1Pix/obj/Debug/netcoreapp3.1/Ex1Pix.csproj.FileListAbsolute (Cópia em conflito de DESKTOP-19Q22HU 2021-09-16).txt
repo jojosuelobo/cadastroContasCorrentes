@@ -1,0 +1,65 @@
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.exe
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.deps.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.dev.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csprojAssemblyReference.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfoInputs.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfo.cs
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\Users\Josué\Dropbox\Codigos\Csharp\EstruturaDados\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.genruntimeconfig.cache
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.exe
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.deps.json
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.json
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.dev.json
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex Pix v2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.AssemblyReference.cache
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfoInputs.cache
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfo.cs
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.CoreCompileInputs.cache
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex Pix v2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.genruntimeconfig.cache
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.AssemblyReference.cache
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfoInputs.cache
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfo.cs
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.CoreCompileInputs.cache
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.exe
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.deps.json
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.json
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.dev.json
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex1Pix-20210901T125020Z-001\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.genruntimeconfig.cache
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.exe
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.deps.json
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.json
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.dev.json
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.AssemblyReference.cache
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfoInputs.cache
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfo.cs
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.CoreCompileInputs.cache
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\DevC\Ex Pix v4-20210902T122638Z-001\Ex Pix v4\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.genruntimeconfig.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.exe
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.deps.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.runtimeconfig.dev.json
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\bin\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csprojAssemblyReference.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfoInputs.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.AssemblyInfo.cs
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.dll
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.pdb
+C:\Users\Josué\Dropbox\Codigos\Csharp\POO2\Ex1Pix\obj\Debug\netcoreapp3.1\Ex1Pix.genruntimeconfig.cache
